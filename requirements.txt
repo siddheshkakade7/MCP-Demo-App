@@ -1,0 +1,3 @@
+Flask>=2.0
+# add other dependencies here if needed
+requests
