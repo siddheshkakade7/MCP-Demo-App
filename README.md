@@ -1,6 +1,6 @@
-# mcp-demo-app
+# mcp-demo-app Documentation
 
-Minimal Flask demo project structure.
+Minimal Flask demo project structure and solution.
 
 Structure:
 
